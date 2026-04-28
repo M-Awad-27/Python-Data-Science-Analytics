@@ -122,3 +122,29 @@ using One-Hot Encoding
 ---
 
 ## Repository Structure
+Python-Data-Science-Analytics/
+│
+├── task1_iris_exploration.ipynb
+├── task2_credit_risk_prediction.ipynb
+├── task3_customer_churn_prediction.ipynb
+└── README.md
+
+---
+
+## How to Run
+
+1. Clone this repository
+```bash
+git clone https://github.com/yourusername/Python-Data-Science-Analytics.git
+```
+
+2. Install required libraries
+```bash
+pip install pandas matplotlib seaborn scikit-learn
+```
+
+3. Open any notebook in VS Code or Jupyter and run all cells
+
+---
+
+*More tasks coming soon*
