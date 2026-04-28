@@ -125,8 +125,11 @@ using One-Hot Encoding
 Python-Data-Science-Analytics/
 │
 ├── task1_iris_exploration.ipynb
+
 ├── task2_credit_risk_prediction.ipynb
+
 ├── task3_customer_churn_prediction.ipynb
+
 └── README.md
 
 ---
